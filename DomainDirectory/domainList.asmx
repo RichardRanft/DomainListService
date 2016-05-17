@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="ShareList.asmx.cs" Class="DomainDirectory.DomainListService" %>

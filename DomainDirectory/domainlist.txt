@@ -1,0 +1,2 @@
+﻿LDAP://thedomain.com,authorizeduser,thepassword
+LDAP://anotherdomain.com,anotheruser,anewpassword
