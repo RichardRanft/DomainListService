@@ -1,2 +1,4 @@
-﻿LDAP://thedomain.com,authorizeduser,thepassword
-LDAP://anotherdomain.com,anotheruser,anewpassword
+﻿LDAP://ad.agi,,
+LDAP://wms.com,admin-ldapqueries,d3rping110
+LDAP://scientificgames.com,,
+LDAP://amer.scientificgames.com,,
